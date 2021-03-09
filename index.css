@@ -1,0 +1,87 @@
+.buttonmon{
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 18%;
+  position: relative;
+  left: 30px;
+  cursor:pointer;
+  
+}
+
+.buttontue{
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 18%;
+  position: relative;
+  left: 60px;
+  cursor:pointer;
+  
+  
+}
+
+.buttonwed{
+  background-color:orchid;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 18%;
+  position: relative;
+  left: 90px;
+  cursor:pointer;
+ 
+  
+}
+
+
+.datafrom{
+    position:relative;
+    padding-top: 300px;
+    padding-left:200px ;
+    left: 22px;
+    word-break: break-all;
+    font-size: 20px;
+    word-spacing: 30px;
+    color:indigo;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+   
+    
+  
+   
+}
+
+.container{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    margin: 240px auto;
+    background: peru;
+    border-radius: 20px;
+    background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(255,255,255,0.7) 8%, rgba(255,255,255,0) 100%);
+    background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.7) 8%,rgba(255,255,255,0) 100%);
+    background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.7) 8%,rgba(255,255,255,0) 100%);
+    background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.7) 8%,rgba(255,255,255,0) 100%);
+    background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.7) 8%,rgba(255,255,255,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 );
+    
+  top: -50px;
+  border: 3px solid green
+}
+
